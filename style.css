@@ -15,37 +15,40 @@ body{
 }
 
 .header{
-    width: 100%;
-    height: 64px;
+    width: 80%;
+    height: 4em;
     background-color: wheat;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 .nav{
-    width: 100%;
-    height: 64px;
-    background-color: pink; 
+    width: 80%;
+    height: 4em;
+    background-color: pink;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; 
 }
 
+
 .banner{
-    width: 100%;
-    height: 64px;
+    width: 80%;
+    height: 4em;
     background-color: blue;
 }
 
 .article{
-    width: 100%;
-    height: 80px;
+    width: 80%;
+    height: 4em;
     background-color: green;
 }
 
-.galery{
-    width: 100%;
-    height: 64px;
-    background-color: red;
-}
-
 .pie-pag{
-    width: 100%;
-    height: 64px;
+    width: 80%;
+    height:4em;
     background-color: purple;
 }
