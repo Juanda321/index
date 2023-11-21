@@ -102,12 +102,26 @@ body{
 }
 
 .parrafo-article{
-    margin: 1em 0;
+    margin: 2em 0;
     font-size: 1.5em;
     width: 80%;
     text-align: justify;
 }
 
+.galery{
+    width: 80%;
+    height: 40%;
+    background-color: #a489cb;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+
+}
+.box-galery{
+    background-color:#8059df;
+    
+}
 .pie-pag{
     width: 80%;
     height:4em;
